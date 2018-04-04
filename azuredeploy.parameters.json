@@ -8,14 +8,8 @@
     "loadBalancerName": {
       "value": "contosoILB"
     },
-    "vmName": {
-      "value": "BackendVM"
-    },
     "virtualNetworkName": {
       "value": "ContosoVnet"
-    },
-    "storageAccountName": {
-      "value": "GEN-UNIQUE"
     },
     "adminUsername": {
       "value" : "admin123"
