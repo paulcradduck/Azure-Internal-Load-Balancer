@@ -32,13 +32,6 @@
         "description": "Admin password"
       }
     },
-    "vmStorageAccountContainerName": {
-      "type": "string",
-      "defaultValue": "vhds",
-      "metadata": {
-        "description": "This is the storage account container name"
-      }
-    },
     "storageAccountName": {
       "type": "string",
       "metadata": {
